@@ -1,0 +1,1531 @@
+INFO:root:Init the UI frame
+INFO:root:Init the config file
+INFO:root:Initializing the UI
+INFO:root:Init the Deck
+INFO:root:Created the cards and shuffled it
+INFO:root:Creating the images Dictionary
+INFO:root:Refreshing Cards in Deck
+INFO:root:Init the Deck
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:All the cards are dealt, need user input to proceed
+INFO:root:Initializing the UI
+INFO:root:Init the Deck
+INFO:root:Created the cards and shuffled it
+INFO:root:Creating the images Dictionary
+INFO:root:Refreshing Cards in Deck
+INFO:root:Init the Deck
+INFO:root:Quitting the app
+INFO:root:Init the UI frame
+INFO:root:Init the config file
+INFO:root:Initializing the UI
+INFO:root:Init the Deck
+INFO:root:Created the cards and shuffled it
+INFO:root:Creating the images Dictionary
+INFO:root:Refreshing Cards in Deck
+INFO:root:Init the Deck
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Quitting the app
+INFO:root:Init the UI frame
+INFO:root:Init the config file
+INFO:root:Initializing the UI
+INFO:root:Init the Deck
+INFO:root:Created the cards and shuffled it
+INFO:root:Creating the images Dictionary
+INFO:root:Refreshing Cards in Deck
+INFO:root:Init the Deck
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Init the UI frame
+INFO:root:Init the config file
+INFO:root:Initializing the UI
+INFO:root:Init the Deck
+INFO:root:Created the cards and shuffled it
+INFO:root:Creating the images Dictionary
+INFO:root:Refreshing Cards in Deck
+INFO:root:Init the Deck
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:All the cards are dealt, need user input to proceed
+INFO:root:Quitting the app
+INFO:root:Init the UI frame
+INFO:root:Init the config file
+INFO:root:Initializing the UI
+INFO:root:Init the Deck
+INFO:root:Created the cards and shuffled it
+INFO:root:Creating the images Dictionary
+INFO:root:Refreshing Cards in Deck
+INFO:root:Init the Deck
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:All the cards are dealt, need user input to proceed
+INFO:root:Initializing the UI
+INFO:root:Init the Deck
+INFO:root:Created the cards and shuffled it
+INFO:root:Creating the images Dictionary
+INFO:root:Refreshing Cards in Deck
+INFO:root:Init the Deck
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:All the cards are dealt, need user input to proceed
+INFO:root:Initializing the UI
+INFO:root:Init the Deck
+INFO:root:Created the cards and shuffled it
+INFO:root:Creating the images Dictionary
+INFO:root:Refreshing Cards in Deck
+INFO:root:Init the Deck
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:All the cards are dealt, need user input to proceed
+INFO:root:Initializing the UI
+INFO:root:Init the Deck
+INFO:root:Created the cards and shuffled it
+INFO:root:Creating the images Dictionary
+INFO:root:Refreshing Cards in Deck
+INFO:root:Init the Deck
+INFO:root:Init the UI frame
+INFO:root:Init the config file
+INFO:root:Initializing the UI
+INFO:root:Init the Deck
+INFO:root:Created the cards and shuffled it
+INFO:root:Creating the images Dictionary
+INFO:root:Refreshing Cards in Deck
+INFO:root:Init the Deck
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:All the cards are dealt, need user input to proceed
+INFO:root:Initializing the UI
+INFO:root:Init the Deck
+INFO:root:Created the cards and shuffled it
+INFO:root:Creating the images Dictionary
+INFO:root:Refreshing Cards in Deck
+INFO:root:Init the Deck
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:All the cards are dealt, need user input to proceed
+INFO:root:Init the UI frame
+INFO:root:Init the config file
+INFO:root:Initializing the UI
+INFO:root:Init the Deck
+INFO:root:Created the cards and shuffled it
+INFO:root:Creating the images Dictionary
+INFO:root:Refreshing Cards in Deck
+INFO:root:Init the Deck
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:All the cards are dealt, need user input to proceed
+INFO:root:Initializing the UI
+INFO:root:Init the Deck
+INFO:root:Created the cards and shuffled it
+INFO:root:Creating the images Dictionary
+INFO:root:Refreshing Cards in Deck
+INFO:root:Init the Deck
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:All the cards are dealt, need user input to proceed
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:All the cards are dealt, need user input to proceed
+INFO:root:Initializing the UI
+INFO:root:Init the Deck
+INFO:root:Created the cards and shuffled it
+INFO:root:Creating the images Dictionary
+INFO:root:Refreshing Cards in Deck
+INFO:root:Init the Deck
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Quitting the app
+INFO:root:Init the UI frame
+INFO:root:Init the config file
+INFO:root:Initializing the UI
+INFO:root:Init the Deck
+INFO:root:Created the cards and shuffled it
+INFO:root:Creating the images Dictionary
+INFO:root:Refreshing Cards in Deck
+INFO:root:Init the Deck
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:All the cards are dealt, need user input to proceed
+INFO:root:Initializing the UI
+INFO:root:Init the Deck
+INFO:root:Created the cards and shuffled it
+INFO:root:Creating the images Dictionary
+INFO:root:Refreshing Cards in Deck
+INFO:root:Init the Deck
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Init the UI frame
+INFO:root:Init the config file
+INFO:root:Initializing the UI
+INFO:root:Init the Deck
+INFO:root:Created the cards and shuffled it
+INFO:root:Creating the images Dictionary
+INFO:root:Refreshing Cards in Deck
+INFO:root:Init the Deck
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:All the cards are dealt, need user input to proceed
+INFO:root:Initializing the UI
+INFO:root:Init the Deck
+INFO:root:Created the cards and shuffled it
+INFO:root:Creating the images Dictionary
+INFO:root:Refreshing Cards in Deck
+INFO:root:Init the Deck
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
+INFO:root:Quitting the app
+INFO:root:Init the UI frame
+INFO:root:Init the config file
+INFO:root:Initializing the UI
+INFO:root:Init the Deck
+INFO:root:Created the cards and shuffled it
+INFO:root:Creating the images Dictionary
+INFO:root:Refreshing Cards in Deck
+INFO:root:Init the Deck
+INFO:root:Dealing a card from Deck to Dealt
+INFO:root:Refreshing Cards in Deck
+INFO:root:Refreshing Cards in Dealt
